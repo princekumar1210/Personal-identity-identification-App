@@ -1,0 +1,2 @@
+John Doe's Aadhaar number is 1234 5678 9012. His PAN is ABCDE1234F.
+He works at Google in New York. Call him at +91 9876543210 or email john@example.com.

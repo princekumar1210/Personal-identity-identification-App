@@ -1,0 +1,18 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 7CD5-0C3F
+
+ Directory of C:\Users\Prince\Desktop\piishield\backend
+
+23-09-2025  00:53    <DIR>          .
+23-09-2025  00:42    <DIR>          ..
+22-09-2025  15:39               424 app.py
+23-09-2025  00:53                 0 directory_listing.txt
+23-09-2025  00:51               988 history.txt
+23-09-2025  00:53                14 output.txt
+22-09-2025  15:35           204,916 sample.jpg
+22-09-2025  15:32               287 test_ocr.py
+23-09-2025  00:42               345 test_regex.py
+22-09-2025  15:30    <DIR>          workers
+22-09-2025  15:40    <DIR>          __pycache__
+               7 File(s)        206,974 bytes
+               4 Dir(s)     709,439,488 bytes free

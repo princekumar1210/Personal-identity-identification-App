@@ -1,0 +1,44 @@
+cd Desktop\Piishield
+venv
+python -m venv venv
+venv\Scripts\activate
+python test_ocr.py
+ cd backend
+python test_ocr.py
+ cd piishield
+\
+cd \
+cd C:\Users\Prince\Desktop\piishield
+python test_ocr.py
+ cd backend
+python test_ocr.py
+pip install opencv-python pytesseract
+python test_ocr.py
+python -m spacy download en_core_web_smpython -m spacy download en_core_web_sm
+
+python -m spacy download en_core_web_sm
+pip install -r requirements.txt
+ cd \
+cd C:\Users\Prince\Desktop\piishield
+pip install -r requirements.txt
+cd piishield
+uvicorn backend.app:app --reload
+cd backend
+cd piishield
+\
+cd \
+cd  C:\Users\Prince\Desktop\piishield
+uvicorn backend.app:app --reload
+python test_regex.py
+cd backend
+python test_regex.py
+# backend/test_regex.py
+from detectors.regexdetector import detect_pii
+python test_regex.py
+cd \\
+cd \ \
+cd  C:\Users\Prince\Desktop\piishield
+python test_regex.py
+cd backend
+python test_regex.py
+doskey /history > history.txt
