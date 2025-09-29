@@ -1,5 +1,6 @@
 from fastapi import FastAPI, UploadFile, File
-from workers.detectors.ocrdetector import extract_text
+from backend.workers.detectors.ocrdetector import extract_text
+
 from workers.detectors.regexdetector import detect_pii_with_regex
 from workers.detectors.nerdetector import detect_pii_with_ner
 from workers.detectors.ensemble import ensemble_detections
